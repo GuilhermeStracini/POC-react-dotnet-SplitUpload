@@ -16,7 +16,7 @@
   "devDependencies": {
     "ajv": "^6.0.0",
     "cross-env": "^5.2.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1"
+    "eslint-plugin-jsx-a11y": "^6.7.1"
   },
   "eslintConfig": {
     "extends": "react-app"
