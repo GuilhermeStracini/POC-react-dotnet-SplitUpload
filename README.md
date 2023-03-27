@@ -1,4 +1,4 @@
-# POC-SplitUpload
+# POC .NET SplitUpload
 
 🔬 Proof of Concept of a upload split in .NET and JS (**React JS**) frontend
 
