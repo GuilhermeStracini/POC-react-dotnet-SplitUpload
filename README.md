@@ -1,6 +1,6 @@
 # POC .NET SplitUpload
 
-🔬 Proof of Concept of a upload split in .NET and JS (**React JS**) frontend
+🔬 Proof of Concept of an upload split in .NET and JS (**React JS**) frontend
 
 React -> C# (.NET Core) backend -> C# (.NET Core) BFI
 
