@@ -1,0 +1,4 @@
+theme: jekyll-theme-dinky
+title: POC React/.NET - Split Upload
+description: Proof of Concept of an upload split in .NET and React (JS) frontend
+show_downloads: true
