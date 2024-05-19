@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using System;
 
@@ -17,5 +17,4 @@ namespace PocSplitUpload.UI.Filters
         public void OnResourceExecuted(ResourceExecutedContext context)
         { }
     }
-
 }
