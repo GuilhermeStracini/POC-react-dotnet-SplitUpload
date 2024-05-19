@@ -14,7 +14,6 @@ namespace PocSplitUpload.UI.Controllers
         {
             await UploadHelper.Process(Request);
             return Ok(new { Success = true });
-
         }
     }
 }
